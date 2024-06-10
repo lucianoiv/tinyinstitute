@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tinyinstitute/static/css/main.c51dafd5.css",
-    "main.js": "/tinyinstitute/static/js/main.b44a8671.js",
+    "main.css": "/tinyinstitute/static/css/main.99bcbcb6.css",
+    "main.js": "/tinyinstitute/static/js/main.77995893.js",
     "static/js/453.5f039a92.chunk.js": "/tinyinstitute/static/js/453.5f039a92.chunk.js",
     "static/media/logo.png": "/tinyinstitute/static/media/logo.af4fada14ea1939252f8.png",
     "index.html": "/tinyinstitute/index.html",
-    "main.c51dafd5.css.map": "/tinyinstitute/static/css/main.c51dafd5.css.map",
-    "main.b44a8671.js.map": "/tinyinstitute/static/js/main.b44a8671.js.map",
+    "main.99bcbcb6.css.map": "/tinyinstitute/static/css/main.99bcbcb6.css.map",
+    "main.77995893.js.map": "/tinyinstitute/static/js/main.77995893.js.map",
     "453.5f039a92.chunk.js.map": "/tinyinstitute/static/js/453.5f039a92.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c51dafd5.css",
-    "static/js/main.b44a8671.js"
+    "static/css/main.99bcbcb6.css",
+    "static/js/main.77995893.js"
   ]
 }
